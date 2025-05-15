@@ -24,3 +24,10 @@ A data-driven project to visualize and analyze global trends of the COVID-19 pan
    ```bash
    git clone [https://github.com/Emmaculate-M/Week-8-Python-Covid-19-Tracker.git]
    cd COVID19-Global-Data-Tracker
+
+## Insights and Reflections
+Visualizing the data across different time periods and countries shows the varied impact of the virus.
+
+The project highlights the importance of timely data collection and global cooperation.
+
+Data storytelling through visuals is a powerful way to communicate public health trends.
